@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hola! Soy Raúl Andrade 👋
+### Frontend Developer
+
+### <img align='right' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="230">
+
 ```js
- A little more about me...
+Un poco sobre mí...
 
 const jorannbe82 = {
     pronouns: "He" | "Him",
@@ -12,7 +16,6 @@ const jorannbe82 = {
         database: ["mongo","mySql"]        
     }
    }
-```
 
 <!--
 **joraanbe82/joraanbe82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
