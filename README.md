@@ -7,12 +7,11 @@
 Un poco sobre mí...
 
 const jorannbe82 = {
-    pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
         code: [Javascript, Typescript, HTML, CSS],
         backEnd: ["nodejs", "express"],
-        fronEnd: ["React"],
+        front-end: ["React","bootstrap", "next.js"],
         database: ["mongo","mySql"]        
     }
    }
