@@ -9,9 +9,9 @@ Un poco sobre mí...
 const jorannbe82 = {
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
-        code: [Javascript, Typescript, HTML, CSS],
+        code: [Javascript, Typescript, HTML5, CSS3],
         backEnd: ["nodejs", "express"],
-        frontEnd: ["React", "bootstrap", "next.js", "ant design", "material-ui", "tailwind css", "material-ui"],
+        frontEnd: ["React", "React Hooks", "Ant design", "Aaterial-ui", "Tailwind css"],
         database: ["mongo","mySql", "postgress"]        
     }
    }
