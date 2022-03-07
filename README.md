@@ -11,7 +11,7 @@ const jorannbe82 = {
     technologies:{
         code: [Javascript, Typescript, HTML5, CSS3],
         backEnd: ["nodejs", "express"],
-        frontEnd: ["React", "React Hooks", "Ant design", "Aaterial-ui", "Tailwind css"],
+        frontEnd: ["React", "React Hooks", "Ant design", "Material-ui", "Tailwind css"],
         database: ["mongo","mySql", "postgress"]        
     }
    }
